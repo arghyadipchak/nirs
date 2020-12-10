@@ -1,7 +1,7 @@
 # Rapid Prediction of Soil Quality Indices Using Near Infrared Spectroscopy (NIRS)
 by  
   
-Amitakshar Kundu,  
+Amitakshar Biswas,  
 Arghyadip Chakraborty,  
 Kuntal Das,  
 Soumyajyoti Kundu  
